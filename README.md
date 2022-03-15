@@ -1,1 +1,1 @@
-This is instuction manual.
+This is instruction manual.
